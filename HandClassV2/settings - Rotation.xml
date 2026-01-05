@@ -1,0 +1,9 @@
+<FeatureFile>Data/features.txt</FeatureFile>
+<DepthFileString>Data/Processed/Rotation/depth%d.yml</DepthFileString>
+<ClassFileString>Data/Processed/Rotation/class%d.bmp</ClassFileString>
+<OutputTreeName>Data/Processed/RotationTree.txt</OutputTreeName>
+<IntermediateTreeName>Data/Processed/RotationTreeInt.txt</IntermediateTreeName>
+<FrameStart>0</FrameStart>
+<FrameEnd>95</FrameEnd>
+<MaxTreeDepth>-1</MaxTreeDepth>
+<NumberOfClasses>21</NumberOfClasses>

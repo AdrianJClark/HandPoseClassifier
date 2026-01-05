@@ -1,0 +1,8 @@
+<ColorInFileString>Data/Raw/hand_dataset_20April12/color_translation.avi</ColorInFileString>
+<DepthInFileString>Data/Raw/hand_dataset_20April12/Translation%d.txt</DepthInFileString>
+<ColorTableFile>Data/Raw/hand_dataset_20April12/ColorTable.txt</ColorTableFile>
+<ColorOutFileString>Data/Processed/Translation/rgb%d.bmp</ColorOutFileString>
+<ClassOutFileString>Data/Processed/Translation/class%d.bmp</ClassOutFileString>
+<DepthOutFileString>Data/Processed/Translation/depth%d.yml</DepthOutFileString>
+<FrameBegin>0</FrameBegin>
+<FrameEnd>60</FrameEnd>

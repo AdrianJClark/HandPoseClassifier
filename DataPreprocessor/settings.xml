@@ -1,0 +1,8 @@
+<ColorInFileString>Data/Raw/Reset_100f/Color/reset_pose%04d.bmp</ColorInFileString>
+<DepthInFileString>Data/Raw/Reset_100f/Pose%d.txt</DepthInFileString>
+<ColorTableFile>Data/Raw/Reset_100f/colortable.txt</ColorTableFile>
+<ColorOutFileString>Data/Processed/Rotation/rgb%d.bmp</ColorOutFileString>
+<ClassOutFileString>Data/Processed/Rotation/class%d.bmp</ClassOutFileString>
+<DepthOutFileString>Data/Processed/Rotation/depth%d.yml</DepthOutFileString>
+<FrameBegin>0</FrameBegin>
+<FrameEnd>95</FrameEnd>

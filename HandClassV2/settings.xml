@@ -1,0 +1,9 @@
+<FeatureFile>Data/features.txt</FeatureFile>
+<DepthFileString>Data/Processed/Translation/depth%d.yml</DepthFileString>
+<ClassFileString>Data/Processed/Translation/class%d.bmp</ClassFileString>
+<OutputTreeName>Data/Processed/TranslationTree.txt</OutputTreeName>
+<IntermediateTreeName>Data/Processed/TranslationTreeInt.txt</IntermediateTreeName>
+<FrameStart>0</FrameStart>
+<FrameEnd>60</FrameEnd>
+<MaxTreeDepth>-1</MaxTreeDepth>
+<NumberOfClasses>21</NumberOfClasses>
